@@ -1,4 +1,4 @@
-Default one not mine.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Default one by react itself.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
